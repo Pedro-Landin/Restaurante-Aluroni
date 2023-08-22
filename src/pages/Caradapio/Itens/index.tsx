@@ -1,4 +1,4 @@
-import Cardapio from "./itens.json";
+import Cardapio from "data/cardapio.json";
 import Item from "./Item";
 import styles from "./Itens.module.scss";
 import { useEffect, useState } from "react";
